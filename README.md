@@ -1,4 +1,4 @@
-<b>## Bem-vindo ao perfil da Dominique Morem</b>
+<b> Bem-vindo ao perfil de Dominique Morem</b>
 
 <div>
    <a href="https://github.com/dominiquemorem">
