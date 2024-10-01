@@ -1,10 +1,10 @@
 <b> Bem-vindo ao perfil de Dominique Morem</b>
 
 <a href="https://github.com/dominiquemorem/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dominiquemorem" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dominiquemorem&show_icons=true&theme=dark"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominiquemorem&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/dominiquemorem/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominiquemorem&langs_count=8"/>
 </a>
 
 <div style="display: inline_block"><br>
