@@ -23,7 +23,5 @@
   <a href="https://www.instagram.com/dominique.morem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener"></a>
    <a href = "mailto:domi.bcastro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener"></a>
   <a href="https://br.linkedin.com/in/dominique-morem-83ab0920b" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+  
+ </div>
