@@ -28,6 +28,7 @@
 ## I'M DOMINIQUE MOREM, ALSO KNOWN AS... CAPYBARA! 
 
 * 🎓 I’m currently pursuing a Bachelor's degree in Information Systems at [@Unirios](https://unirios.edu.br).
+* 💎 I'm on a learning journey with **Ruby** and **Ruby on Rails**, taking courses and building projects to grow as a developer step by step.
 * 📹 I create tech content on [YouTube](https://www.youtube.com/@domicaps), focusing on resolving execution errors and working with IDEs — breaking down problems and sharing practical solutions.
 * 👩🏻‍🏫 I love teaching and making technology more accessible to as many people as possible, empowering others through clarity and curiosity.
 
