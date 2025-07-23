@@ -2,23 +2,23 @@
 
 <div align="left">
 
-  <a href="https://www.youtube.com/@domicaps" target="_blank" rel="noreferrer noopener">
+  <a href="https://www.youtube.com/@domicaps">
     <img src="https://img.shields.io/badge/YouTube-%239f4bff?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/dominique-morem" target="_blank" rel="noreferrer noopener">
+  <a href="https://www.linkedin.com/in/dominique-morem">
     <img src="https://img.shields.io/badge/Linkedin-%239f4bff?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:domi_castro@hotmail.com" target="_blank" rel="noreferrer noopener">
+  <a href="mailto:domi_castro@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-%239f4bff?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/dominique.morem" target="_blank" rel="noreferrer noopener">
+  <a href="https://www.instagram.com/dominique.morem">
     <img src="https://img.shields.io/badge/Instagram-%239f4bff?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://wa.me/+5532998363045" target="_blank" rel="noreferrer noopener">
+  <a href="https://wa.me/+5532998363045">
     <img src="https://img.shields.io/badge/WhatsApp-%239f4bff?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
